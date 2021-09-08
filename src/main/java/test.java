@@ -1,2 +1,3 @@
-echo "hell world"
+eecho "hell world"
+hai
 test
